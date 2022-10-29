@@ -1,0 +1,15 @@
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\bin\Debug\net6.0\inserer_entier.exe
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\bin\Debug\net6.0\inserer_entier.deps.json
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\bin\Debug\net6.0\inserer_entier.runtimeconfig.json
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\bin\Debug\net6.0\inserer_entier.dll
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\bin\Debug\net6.0\inserer_entier.pdb
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.csproj.AssemblyReference.cache
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.AssemblyInfoInputs.cache
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.AssemblyInfo.cs
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.csproj.CoreCompileInputs.cache
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.dll
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\refint\inserer_entier.dll
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.pdb
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\inserer_entier.genruntimeconfig.cache
+C:\Users\yeboa\source\repos\inserer_entier\inserer_entier\obj\Debug\net6.0\ref\inserer_entier.dll
